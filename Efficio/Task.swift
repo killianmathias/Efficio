@@ -1,8 +1,7 @@
-//
-//  Task.swift
-//  Efficio
-//
-//  Created by Killian Mathias on 19/01/2025.
-//
-
 import Foundation
+import CoreData
+
+@objc(Task)
+public class Task: NSManagedObject {
+    // Vous n'avez pas besoin de redéclarer les propriétés générées par Core Data ici.
+}
