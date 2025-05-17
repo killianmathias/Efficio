@@ -1,0 +1,1 @@
+Ce projet consiste en une applicatio de TO-DO List en Swift. Comme j'aime bien développer des applications mobiles, je me suis mis à l'apprentissage du Swift. Ce projet est un exercice personnel que je me suis donné pour apprendre.
